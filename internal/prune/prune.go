@@ -89,8 +89,6 @@ var DefaultFiles = []string{
 // Copied from yarn (mostly).
 var DefaultDirectories = []string{
 	"__tests__",
-	"test",
-	"tests",
 	"powered-test",
 	"docs",
 	"doc",
